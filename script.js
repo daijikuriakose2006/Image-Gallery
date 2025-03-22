@@ -74,7 +74,7 @@ const images = [
     },
     {
         id: 13,
-        src: 'https://files.oaiusercontent.com/file-VaYyPJv3dJUSab3tNjVVDU?se=2025-03-22T09%3A40%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D00a1c74a-ce98-4daa-b096-1c5bc240752c.webp&sig=DBOrx/WuMbPVCYfGTS3bcduUlVeFApewxe4oqvsybIU%3D',
+        src: 'https://th.bing.com/th/id/OIP.CpG382eVTPWAanuU_QuwnQHaE1?rs=1&pid=ImgDetMain',
         category: 'animals',
         caption: 'leopard'
     }
